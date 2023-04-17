@@ -1,0 +1,69 @@
+
+    
+h1{
+    text-align: center;
+}
+.contener{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+   width: 90% ; 
+   margin: 10px;
+  border: 5px solid #62b764;
+}
+
+.header{
+    text-align: center;
+ background-color: aqua;  
+ margin: 10px;
+  border: 5px solid #4CAF50; 
+}
+
+.navbar{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+    margin: 10px;
+  border: 5px solid #4CAF50;
+}
+
+.article{
+    text-align: center;
+    background-color: rgb(255, 0, 89);
+    width: 573px; 
+    float: left;
+    padding: 10px;
+    margin: 10px;
+  border: 5px solid #4CAF50;
+  display: table;
+}
+
+.ad-sidebar{
+    text-align: center;
+    background-color: rgb(80, 101, 15);
+    width: 573px;
+    float: left;
+    
+    margin: 10px;
+  border: 5px solid #429044;
+  display: table;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgba(0, 255, 195, 0.281);
+    margin: 10px;
+  border: 5px solid #4CAF50;
+}
+
+.clear {
+        clear: both;
+    }
+
+ img{
+    width:500px;
+    
+}
+
+li{
+    display: inline;
+    margin:5px ;
+}
